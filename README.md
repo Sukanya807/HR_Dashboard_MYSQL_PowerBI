@@ -30,6 +30,7 @@ The purpose of this project is to perform data cleaning and analysis on HR data 
 ![](images/code_birthdate_.png)
 
 ***Result:***
+
 ![](images/birthdate_date_format.png)
 
 ***3. Modify birthdate column datatype to DATE from Text***
