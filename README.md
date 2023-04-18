@@ -17,7 +17,17 @@ The purpose of this project is to perform data cleaning and analysis on HR data 
 
 ## Data Cleaning & Analysis :
 
-***Rename the ID column***
+***1. Rename the ID column***
+
+![](images/code_id_rename_col.png)
+
+***Result***
+
+![](images/id_col_change.png)
+
+***2. Convert the birthdate column to Date from Text and format the date to %Y-%m-%d.***
+
+![](images/code_birthdate_.png)
 
 
 
