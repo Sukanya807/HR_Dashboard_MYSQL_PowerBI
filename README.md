@@ -15,7 +15,7 @@ The purpose of this project is to perform data cleaning and analysis on HR data 
 
 ![](images/hr_dashboard.png)
 
-## Data Cleaning & Analysis :
+## DATA CLEANING
 
 ***1. Rename the ID column***
 
@@ -61,6 +61,66 @@ The purpose of this project is to perform data cleaning and analysis on HR data 
 ***Result:***
 
 ![](images/age_col.png)
+
+## DATA ANALYSIS
+
+***1. What is the gender breakdown of employees in the company?***
+
+![](images/gender_breakdown.png)
+
+
+***2.What is the race/ethnicity breakdown of employees in the company?
+
+![](images/race_breakdown.png)
+
+
+***3. What is the age distribution of employees in the company?***
+
+![](images/age_group_count.png)
+
+
+***4. How many employees work at headquarters vs remote locations?
+
+![](images/headquarter_vs_remote.png)
+
+
+***5. What is the average length of employment for employees who have been terminated?
+
+![](images/avg_lenth_employment.png)
+
+
+***6. How does the gender distribution vary across departments and job titles?
+
+![](images/department_gender_6.png)
+
+
+***7. What is the distribution of job titles across company?
+
+![](images/jobtitle_dist_7.png)
+
+
+***8. Which department has the highest attrition rate?
+
+![](images/attrition_rate_8.png)
+
+
+***9. What is the distribution of employees across locations by state?
+
+![](images/location_count_9.png)
+
+
+***10. How has the employee count changed over time based on hire and term date?***
+
+![](images/net_change_percent_10.png)
+
+
+***11. What is the tenure distribution for each department?
+
+![](images/department_11.png)
+
+
+
+
 
 
 
