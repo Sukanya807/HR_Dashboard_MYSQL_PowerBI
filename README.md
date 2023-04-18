@@ -21,7 +21,7 @@ The purpose of this project is to perform data cleaning and analysis on HR data 
 
 ![](images/code_id_rename_col.png)
 
-***Result: ***
+***Result:***
 
 ![](images/id_col_change.png)
 
