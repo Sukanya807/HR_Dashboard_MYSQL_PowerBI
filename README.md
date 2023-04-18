@@ -15,6 +15,10 @@ The purpose of this project is to perform data cleaning and analysis on HR data 
 
 ![](images/hr_dashboard.png)
 
+## Data Cleaning & Analysis :
+
+***Rename the ID column***
+
 
 
 
