@@ -37,6 +37,31 @@ The purpose of this project is to perform data cleaning and analysis on HR data 
 
 ![](images/birthdate_modify_col.png)
 
+***4. Convert the hire_date column to Date from Text and format the date to %Y-%m-%d***
+
+![](images/code_hiredate_date_format.png)
+![](images/code_hiredate_modifycol.png)
+
+***Result:***
+
+![](images/hiredate_date_format.png)
+
+***5. Convert the termdate column to Date from Text and format the date to %Y-%m-%d***
+
+![](images/code_termdate_dateformat.png)
+
+***Result:***
+
+![](images/termdate_dateformat.png)
+
+***6. Add an Age column to the table and populate the values based on birthdate***
+
+![](images/code_age_col.png)
+
+***Result:***
+
+![](images/age_col.png)
+
 
 
 
